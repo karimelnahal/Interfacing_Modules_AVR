@@ -1,0 +1,2 @@
+MCAL/EEPROM/EEPROM_Program.o MCAL/EEPROM/EEPROM_Program.o:  \
+ ../MCAL/EEPROM/EEPROM_Program.c
